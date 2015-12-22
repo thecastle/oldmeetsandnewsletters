@@ -1,0 +1,7 @@
+:SETUP:
+#+TITLE:
+#+AUTHOR: Ian Barton.
+#+STARTUP: content indent
+#+DATE: [2015-12-22 Tue 14:15]
+:END:
+A collection of old meet reports and newsletters from the 1980's.
